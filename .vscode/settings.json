@@ -1,0 +1,19 @@
+{
+    "window.zoomLevel": -2,
+
+    "editor.fontSize": 12.5,
+    
+    "liveServer.settings.port": 6470,
+
+    "liveServer.settings.root": "public/",
+
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": "C:\\Program Files\\Google\\Chrome Dev\\Application\\chrome.exe",
+
+    "liveServer.settings.NoBrowser" : false,
+
+    "liveServer.settings.ignoreFiles" : [
+
+        ".vscode/**"
+
+    ],
+}
